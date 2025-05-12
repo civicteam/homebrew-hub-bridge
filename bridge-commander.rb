@@ -1,10 +1,10 @@
 class BridgeCommander < Formula
   desc "STDIO to HTTP/SSE MCP bridge with OAuth authorization handling for LLM tools"
   homepage "https://github.com/civicteam/civic-mcp/tree/main/packages/bridge-commander"
-  url "https://github.com/civicteam/homebrew-bridge-commander/releases/download/v0.0.12/bridge-commander-macos.tar.gz"
-  sha256 "90058c9f8f34729fddf979c00f3cbfd52190111e315066115d40459109ef291e"
+  url "https://github.com/civicteam/homebrew-bridge-commander/releases/download/v0.0.13/bridge-commander-macos.tar.gz"
+  sha256 "1a209767f2a38a0e47eabca4a7a94175ca52d0bab590ec953336a33ae8ef66e5"
   license "MIT"
-  version "0.0.12"
+  version "0.0.13"
 
   depends_on arch: :arm64
 
